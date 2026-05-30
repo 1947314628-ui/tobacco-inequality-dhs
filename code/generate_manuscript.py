@@ -711,8 +711,9 @@ sec('数据与代码可及性', level=2)
 body('本研究全部数据来源于以下公开可获取的数据库：人口与健康调查（DHS）项目指标数据'
      '（https://dhsprogram.com）、世界卫生组织全球卫生观察站（WHO GHO, '
      'https://www.who.int/data/gho）及世界银行发展指标（https://data.worldbank.org）。'
-     '具体检索指标已在方法部分详述。全部分析代码已在GitHub公开存档'
-     '（[填写GitHub仓库URL]），并可通过Zenodo获取永久数字对象标识符（DOI：[填写DOI]），'
+     '具体检索指标已在方法部分详述。全部分析代码及数据已在GitHub公开存档'
+     '（https://github.com/1947314628-ui/tobacco-inequality-dhs），'
+     '并可通过Zenodo获取永久数字对象标识符（DOI：[填写DOI]），'
      '读者可据此完整复现本研究的全部分析。')
 
 sec('伦理审查', level=2)
