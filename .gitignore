@@ -1,0 +1,14 @@
+# Excluded from GitHub repository
+manuscript/
+figures/
+__pycache__/
+.claude/
+*.pyc
+.DS_Store
+Thumbs.db
+*.docx
+*.pdf
+*.png
+*.jpg
+*.tif
+!data/
